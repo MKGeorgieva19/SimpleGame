@@ -1,0 +1,7 @@
+button {
+    background-color: #1b79b7;
+    font-size: 20px;
+    pref-width: 50px;
+    pref-height: 50px;
+    background-radius: 10px;
+}
